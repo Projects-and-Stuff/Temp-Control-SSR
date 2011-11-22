@@ -17,7 +17,7 @@ The current hardware iteration of this project is actually a bit over-engineered
 
 * ./Firmware/ --> Firmware for the project (Written in C Utilizing AVR Studio 5 and AVRGCC)
 * ./Hardware/ --> Kicad Project for TempControl Hardware
-* ./GerberOutput/ --> The latest Gerber Files for manufature
+* ./GerberOutput/ --> The latest Gerber Files for manufacture
 * ./Notes/ --> Project Notes, BOM, and Research
 
 ---
