@@ -1,0 +1,47 @@
+
+
+
+Design specifications:
+- No budget, but aim for lower cost
+- Over-engineer to ensure survival in rough environments
+- Under $100
+
+
+======================================================
+Discuss how I determined the wattage to select for the current-limiting resistors.
+Maximum Forward current is 20mA
+I want to aim for 10mA
+The input voltage is 5VDC
+The forward voltage is about 1.7 to 2.2 volts
+
+Now we can run 2 calculations to determine the appropriate range of resistors:
+5 - 2.2 = 2.8 / 0.01 = 280 Ohms
+5 - 1.7 = 3.3 / 0.01 = 330 Ohms
+
+To verify that anything in this range will meet our needs, we'll check what current values we get if the forward voltage drop across the LED is a bit different than we expected:
+2.8 / 330 = 0.085 = 8.5mA
+3.3 / 280 = 0.0118 = 11.8mA
+
+Both of these values are well within the allowable current range for the LEDs, and still very near what we were looking for in total current.
+
+When selecting a resistor, one of the specifications is power handling. To determine the maximum power our resistor will have to deal with, we do the following:
+- Calculate the maximum voltage drop across the resistor: 5 - 1.7 = 3.3
+- Remember that P = I * E
+- So for the maximum current that will be passing through our resistor: P = 0.0118 * 3.3 = 0.03894W
+- Because I want to over-engineer a bit, I'll double the value, but you should always give yourself a bit of fudge-factor by increasing the value 10-20%
+- I'll select the cheapest resistor between 280 and 330 ohms that can handle at least 0.08W
+
+======================================================
+
+Why I chose to use the SCK ISP pin as the driver for the DS18B20 sensor: In order for the sensor to communicate, it must ....
+
+Is it possible that just by seeing a clock on the line it might try to communicate? In which case I need to isolate the sensor from the programmer.
+
+Nope, this is a problem as the 1-wire protocol initializes simply with a puls. So the SCK may be assumed to be the initialization pulse, after which the slave device (the sensor) will pull the line down for another pulse to signal its presence.
+
+Might be able to use the reset line, though? Since during programming it will be held to a single state the entire time, which shouldn't confuse the 1-wire.
+
+======================================================
+
+
+Seal the circuit board traces to help deal with dust causing shorts

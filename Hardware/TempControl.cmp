@@ -1,0 +1,227 @@
+Cmp-Mod V01 Created by CvPCB (2011-07-08 BZR 3044)-stable date = 11/17/2011 10:41:33 PM
+
+BeginCmp
+TimeStamp = /4E4ABC5D;
+Reference = C1;
+ValeurCmp = 22nF;
+IdModule  = 2012;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E46788D;
+Reference = C2;
+ValeurCmp = 3.3uF;
+IdModule  = 2012;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E467891;
+Reference = C3;
+ValeurCmp = 22nF;
+IdModule  = 2012;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E4AAB33;
+Reference = C4;
+ValeurCmp = 3.3uF;
+IdModule  = 2012;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E4AAB32;
+Reference = C5;
+ValeurCmp = 22nF;
+IdModule  = 2012;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E4678A0;
+Reference = C6;
+ValeurCmp = 12pF;
+IdModule  = 2012;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E4678A8;
+Reference = C7;
+ValeurCmp = 12pF;
+IdModule  = 2012;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E46789D;
+Reference = C8;
+ValeurCmp = .022uF;
+IdModule  = 940C30S22K-F;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E46747B;
+Reference = D1;
+ValeurCmp = BRIDGE;
+IdModule  = MB6S-TP;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E4BF118;
+Reference = D2;
+ValeurCmp = LED_Power;
+IdModule  = Lx_M67K;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E4BF12E;
+Reference = D3;
+ValeurCmp = LED_Status;
+IdModule  = Lx_M67K;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E467877;
+Reference = F1;
+ValeurCmp = 250V_8A;
+IdModule  = 37XXXXX0410;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E46787C;
+Reference = F2;
+ValeurCmp = 250VAC_315mA;
+IdModule  = 37XXXXX0410;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E61EE1A;
+Reference = IC1;
+ValeurCmp = ATTINY84-SS;
+IdModule  = SO14E;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E467860;
+Reference = K1;
+ValeurCmp = S202S01;
+IdModule  = S202S01;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E4675AE;
+Reference = P1;
+ValeurCmp = Input;
+IdModule  = 1437664-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E4675B3;
+Reference = P2;
+ValeurCmp = Output;
+IdModule  = 1437664-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E467A03;
+Reference = R1;
+ValeurCmp = 4.7kΩ;
+IdModule  = 1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E61F332;
+Reference = R2;
+ValeurCmp = 4.7kΩ;
+IdModule  = 1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E61F378;
+Reference = R3;
+ValeurCmp = 4.7kΩ;
+IdModule  = 1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E61F388;
+Reference = R4;
+ValeurCmp = 4.7kΩ;
+IdModule  = 1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E4BF162;
+Reference = R5;
+ValeurCmp = 300Ω;
+IdModule  = 1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E4BF16B;
+Reference = R6;
+ValeurCmp = 300Ω;
+IdModule  = 1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E61F5C4;
+Reference = R7;
+ValeurCmp = 158Ω;
+IdModule  = 1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E4679FF;
+Reference = R8;
+ValeurCmp = 47Ω;
+IdModule  = HPC12JT47R0;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E4678D7;
+Reference = R9;
+ValeurCmp = VARISTORS05K230;
+IdModule  = ERZ-V05D361;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E660A95;
+Reference = SW1;
+ValeurCmp = SPST;
+IdModule  = 2-Pin Wire Connect;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EA0622F;
+Reference = T1;
+ValeurCmp = BV030-7585.0;
+IdModule  = BV030-7585.0;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E4AAAE6;
+Reference = U1;
+ValeurCmp = MCP1802T;
+IdModule  = MCP1802T;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E4AB52C;
+Reference = U2;
+ValeurCmp = DS18B20;
+IdModule  = 282834-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E4AB90C;
+Reference = X1;
+ValeurCmp = ISP;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E467CF4;
+Reference = X2;
+ValeurCmp = 20.0_MHz;
+IdModule  = 9C-20.000MEEJ-T;
+EndCmp
+
+EndListe

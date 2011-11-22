@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "TempControl", "TempControl\TempControl.avrgccproj", "{25CAB19D-7CBF-4161-B031-294C195BB124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25CAB19D-7CBF-4161-B031-294C195BB124}.Debug|AVR.ActiveCfg = Debug|AVR
+		{25CAB19D-7CBF-4161-B031-294C195BB124}.Debug|AVR.Build.0 = Debug|AVR
+		{25CAB19D-7CBF-4161-B031-294C195BB124}.Release|AVR.ActiveCfg = Release|AVR
+		{25CAB19D-7CBF-4161-B031-294C195BB124}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

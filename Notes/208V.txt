@@ -1,0 +1,50 @@
+ 
+
+ 
+
+208V is *not* the same as 240V. 208V is the voltage between
+phases of a 3-phase "Y" circuit that is 120V from neutral to any
+hot. 480V is the voltage between phases of a 3-phase "Y"
+circuit that's 277V from hot to neutral.
+
+
+The difference between 208V and 240 V is about 15 percent. So you'd
+think it would take 15 percent longer to get your kettle going.
+
+But ... in reality, since the voltage is down by 15 percent, the
+current is also down by 15 percent. Meaning the wattage (power) is
+down by roughly 25 percent.
+
+
+
+208V and 230V are NOT the same. 220V is a misnomer—there is no such standard as nominal
+220V in the United States. You must verify the exact type of electrical service you have. If there
+is any doubt, you must consult with a qualified electrician who is familiar with industrial plant
+wiring. In addition, the input line voltage should be measured while the chamber is operating in
+the COOL mode to ensure that the expected nominal voltage of either 208V ±5% or 230V ±5%
+is present.
+
+A misnomer is the wrong name or term for something; a misleading name, often idiomatic.
+
+Some sources of misnomers include
+
+* A word used in ignorance of the true meaning.
+* An older name being retained as the thing named evolved (e.g., pencil lead, tin can, fixed income markets, mince meat pie, steamroller). This is essentially a metaphorical extension with the older item standing for anything filling its role.
+* A name being based on a similarity in a particular aspect (e.g. asteroids look like stars from Earth, the settled portions of Greenland are greener than the rest)
+* A difference between popular and technical meanings of a term. For example a koala "bear" looks and acts much like bears, but from a zoologist's point of view they are quite distinct. Similarly, fireflies fly, ladybugs look and act like bugs and peanuts look and taste like nuts. The technical sense is often cited as the "correct" sense, but this is a matter of context.
+* An older name being retained even in the face of newer information (e.g., Chinese checkers, Arabic numerals).
+* Ambiguity (e.g., a parkway is generally a road with park-like landscaping, not a place to park).
+
+In North America, standard residential utility power is single phase 120/240v AC. More accurately, this is two-phase power, with two "line" ("phase" or "hot") wires and a grounded neutral. Each line is at 120v with respect to ground. Since the two line wires are 180 degrees out of phase with each other, between the line wires you see twice 120v, or 240v. This lets most residential magnechargers operate at full power.
+
+But in commercial establishments, "three-phase" power is the norm. The common "three-phase 120/208v wye" configuration provides three line wires and a grounded neutral. While each line wire is 120v with respect to ground as in residential service, the voltage between each pair of line wires is only 208v. Why? Because the three line wires are only 120 degrees out of phase with each other (360 degrees in a circle / 3 phases = 120 degrees/phase).
+
+A little trigonometry will show that the voltage between two phases that are 120 degrees apart is sqrt(3) = 1.73 times the voltage of one phase to ground. So if the phase-to-ground voltage is 120v, the phase-to-phase voltage is 1.73 * 120v = 208v. 
+
+what's the difference between a 240 volt panel vs a 208 volt panel..?" The major difference is that the 240 volt panel is a single phase panel(although it has 2 hot wires...it's still single phase)....and 208 is what we call 3 phase...having 3 seperate hot legs in the panel. 208 volt panels are more reserved for commercial/light industrial applications....coming in panels rated 120/208 3 phase. For house wiring ....a 240 volt panel (actually known as a 120/240 volt panel ) is all one would typically ever need. They come in 100 amp, 150 amp, 200 amp and occassionally up to 400 amp sizes. A 208 3 phase panel - on the other hand - is typically no smaller then 200 amp (although you can sometimes find it in a 100 or 125 amp)..and can range in sizes up to 600 amp or larger for special applications.
+
+Outside of the 240 volt panel being single phase (having 2 hots, 1 nuetral and a ground) and the 208 being 3 phase (having 3 hots, 1 neutral and a ground)...there is no other real difference between the 2 panel configurations. The internal copper buss is arranged different - because the 208 volt 3 phase panel is made to accomodate up to 3 pole breakers...where the 240 volt can only accept single pole and two pole breakers.
+
+If you have a lot of large motor loads...and other heavy commercial type loads in a home..that can be powered by 3 phase....you can install a 120/208 3 phase service and panel. Typically - this takes special paperwork from your electrical provider (where it is a non-standard panel and voltage for residential use) ...and may not be available in all areas. In any case...it is considerably more expensive thne the standard household 120/240 volt single phase service and panel.
+
+The 208 volt 3 phase electrical panel only has pro's IF you have substantial 3 phase power loads...and therefore would be better served by a 3 phase service. Where some loads may be served by 3 phase...you may be able to run smaller wire for certain applications. Other then that...it has no other advantage over its residential 240 volt counterpart.
