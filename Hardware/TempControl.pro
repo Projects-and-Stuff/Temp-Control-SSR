@@ -1,6 +1,6 @@
-update=11/30/2011 9:58:58 PM
+update=11/30/2011 10:23:52 PM
 version=1
-last_client=kicad
+last_client=eeschema
 [cvpcb]
 version=1
 NetIExt=net
@@ -36,6 +36,8 @@ LibName8=valves
 LibName9=led
 LibName10=dip_sockets
 LibName11=TempControl
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
@@ -80,5 +82,3 @@ LibName9=special
 LibName10=microcontrollers
 LibName11=atmel
 LibName12=TempControl
-[general]
-version=1
