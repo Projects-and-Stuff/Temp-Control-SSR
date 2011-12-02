@@ -25,3 +25,10 @@ The current hardware iteration of this project is actually a bit over-engineered
 Additional information, research, and notes can be found at http://www.projectsandstuff.com, or email us at support@projectsandstuff.com
 
 Let us know if you fork and make improvements. We'd be glad to consider merges that improve this project.
+
+---
+
+UPDATES:
+
+Updated Trace widths and clearance per ANSI/IPC-2221A Standards
+
