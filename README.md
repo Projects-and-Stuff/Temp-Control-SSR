@@ -32,3 +32,9 @@ UPDATES:
 
 Updated Trace widths and clearance per ANSI/IPC-2221A Standards
 
+---
+
+CURRENT AUTHORS:
+
+> [Jack Linke](http://www.jacklinke.com)
+jacklinke@gmail.com
