@@ -1,131 +1,9 @@
-Still need to order:
-- Updated Crystal Caps
-- Bridge Rectifier
-- Enclosure
-- ATTiny84
-- LEDs and limit resistors?
+BILL OF MATERIALS (BOM)
 
 
-PERF-135 PL
-BOX PERF ALUM 3.75 X 3 X 2.13
-http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=L169-ND
-Qty: 1
-Price: $11.02
-Tot Price: $11.02
-
-PERF-136 PL
-BOX PERF ALUM 5.25 X 3 X 2.13
-http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=L170-ND
-Qty: 1
-Price: $12.49
-Tot Price: $12.49
-
-R4-40X1/4
-Mounting Screw
-SCREW PHILLIPS PAN R4-40X1/4
-http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=335-1082-ND
-Qty: 10
-Price: $0.54
-Tot Price: $5.40
-
-4801
-Standoff
-STANDOFF M/F HEX 4-40 NYL .375"L
-http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=4801K-ND
-Qty: 10
-Price: $0.539
-Tot Price: $5.39
-
-NY HN 440
-Hex Nuts
-NUT HEX 4-40 NYLON
-http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=H616-ND
-Qty: 100
-Price: $0.105
-Tot Price: $10.50
-
-
-
-
-940C30S22K-F
-Snub Capacitor
-CAP .022UF 3000V METAL POLYPRO
-http://search.digikey.com/scripts/DkSearch/dksus.dll?vendor=0&keywords=940C30S22K-F&stock=1
-Qty: 1
-Price: $3.47
-Tot Price: $3.47
-
-
-HPC12JT47R0
-RES 47 OHM 5W 5% SMD
-Snub Resistor
-http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=HPC12JT47R0CT-ND
-Check its isolation properties
-Qty: 1
-Price: $3.30
-Tot Price: $3.30
-
-
-566010B03400G
-Heatsink
-HEATSINK W/TAB BLACK
-http://search.digikey.com/scripts/DkSearch/dksus.dll?vendor=0&keywords=566010B03400G&stock=1
-Qty: 1
-Price: $2.06
-Tot Price: $2.06
-
-
-ATTINY84
-ATTINY84-20SSU
-http://search.digikey.com/us/en/products/ATTINY84-20SSU/ATTINY84-20SSU-ND/1886247
-Qty: 1
-Price: $2.90
-Tot Price: $2.90
-
-
-MB6S-TP
-Bridge Rectifier
-IC RECT BRIDGE 0.5A 600V MBS-1
-http://search.digikey.com/us/en/products/MB6S-TP/MB6S-TPMSCT-ND/722466
-Qty: 1
-Price: $0.44
-Tot Price: $0.44
-
-
-9C-20.000MEEJ-T
-20MHz Crystal
-http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=887-1278-1-ND
-Qty: 1
-Price: $0.68
-Tot Price: $0.68
-
-
-S202S01F
-SSR
-RELAY SSR 240VAC 8A TRIAC 4-SIP
-http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=425-2402-5-ND
-Qty: 1
-Price: $4.85
-Tot Price: $4.85
-
-
-282834-2
-Signal Terminal
-TERM BLOCK 2POS SIDE ENT 2.54MM
-http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=A98333-ND
-Qty: 1
-Price: $0.75
-Tot Price: $0.75
-
-
-1437664-4
-Power Terminal
-CONN BARRIER STRIP 2POS VERT
-http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=1437664-4-ND
-Qty: 2
-Price: $0.60
-Tot Price: $1.20
-
+---------------------------------------
+---- POWER SUPPLY AND CONDITIONING ----
+---------------------------------------
 
 BV030-7585.0
 Transformer
@@ -136,17 +14,10 @@ Price: $3.90
 Tot Price: $3.90
 
 
-DS18B20
-Temp Sensor
-Qty: 
-Price: $
-Tot Price: 
-
-
-ERZ-V05D361
-Varistor
-SUR ABSORBER 5MM 360V 600A ZNR
-http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=P7243-ND
+MB6S-TP
+Bridge Rectifier
+IC RECT BRIDGE 0.5A 600V MBS-1
+http://search.digikey.com/us/en/products/MB6S-TP/MB6S-TPMSCT-ND/722466
 Qty: 1
 Price: $0.44
 Tot Price: $0.44
@@ -161,24 +32,6 @@ Price: $0.65
 Tot Price: $0.65
 
 
-37318000410
-Fast Fuse
-FUSE FAST-ACT 8A 250V UL TR5
-http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=WK6240-ND
-Qty: 1
-Price: $0.89
-Tot Price: $0.89
-
-
-37003150410
-Fast Fuse
-FUSE FAST 250VAC 315MA RADIAL
-http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=WK4937BK-ND
-Qty: 1
-Price: $0.71
-Tot Price: $0.71
-
-
 TPSA335K025R1000
 Voltage Regulation Caps (Input & Output)
 CAP TANT 3.3UF 25V 10% 1206
@@ -188,41 +41,19 @@ Price: $0.90
 Tot Price: $1.80
 
 
-C0816X7R1C223K
+C3216X7R1E224K
 Decoupling Caps
-CAP CER .022UF 16V 10% X7R 0306
-http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=445-1799-1-ND
+CAP CER 0.22UF 25V 10% X7R 1206
+http://search.digikey.com/us/en/products/C3216X7R1E224K/445-4016-1-ND/1965662
 Qty: 4
-Price: $0.40
-Tot Price: $1.60
+Price: $0.32
+Tot Price: $1.28
 
 
-RMCF1206JT4K70
-uC Reset
-RES 4.7K OHM 1/4W 5% 1206 SMD
-http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=RMCF1206JT4K70CT-ND
-Qty: 1
-Price: $0.05
-Tot Price: $0.05
 
-
-Crystal Load Caps
-CAP CER 12PF 50V NP0 1206
-C1206C120J5GACTU
-http://search.digikey.com/us/en/products/C1206C120J5GACTU/399-1193-1-ND/411468
-Qty: 2
-U/P: $0.31
-T/P: $0.62
-
-
-ERJ-14NF1580U
-Current Limit Resistor
-RES 158 OHM 1/2W 1% 1210 SMD
-http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=P158AACT-ND
-Qty: 1
-Price: $0.51
-Tot Price: $0.51
-
+--------------------
+---- INDICATORS ----
+--------------------
 
 LS M67K-H2L1-1-Z
 Power Indication LED
@@ -245,3 +76,190 @@ http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=RMCF1206JT300RC
 Qty: 2
 Price: $0.05
 Tot Price: $0.10
+
+
+
+---------------------------------------------
+---- SURGE AND INDUCTIVE LOAD PROTECTION ----
+---------------------------------------------
+
+940C30S22K-F
+Snub Capacitor
+CAP .022UF 3000V METAL POLYPRO
+http://search.digikey.com/scripts/DkSearch/dksus.dll?vendor=0&keywords=940C30S22K-F&stock=1
+Qty: 1
+Price: $3.47
+Tot Price: $3.47
+
+
+HPC12JT47R0
+RES 47 OHM 5W 5% SMD
+Snub Resistor
+http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=HPC12JT47R0CT-ND
+Check its isolation properties
+Qty: 1
+Price: $3.30
+Tot Price: $3.30
+
+
+ERZ-V05D361
+Varistor
+SUR ABSORBER 5MM 360V 600A ZNR
+http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=P7243-ND
+Qty: 1
+Price: $0.44
+Tot Price: $0.44
+
+
+37318000410
+Fast Fuse
+FUSE FAST-ACT 8A 250V UL TR5
+http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=WK6240-ND
+Qty: 1
+Price: $0.89
+Tot Price: $0.89
+
+
+37003150410
+Fast Fuse
+FUSE FAST 250VAC 315MA RADIAL
+http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=WK4937BK-ND
+Qty: 1
+Price: $0.71
+Tot Price: $0.71
+
+
+
+----------------
+---- TIMING ----
+----------------
+
+9C-20.000MEEJ-T
+20MHz Crystal
+http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=887-1278-1-ND
+Qty: 1
+Price: $0.68
+Tot Price: $0.68
+
+
+Crystal Load Caps
+CAP CER 12PF 50V NP0 1206
+C1206C120J5GACTU
+http://search.digikey.com/us/en/products/C1206C120J5GACTU/399-1193-1-ND/411468
+Qty: 2
+U/P: $0.31
+T/P: $0.62
+
+
+
+------------------
+---- HARDWARE ----
+------------------
+
+PERF-136 PL
+BOX PERF ALUM 5.25 X 3 X 2.13
+http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=L170-ND
+Qty: 1
+Price: $12.49
+Tot Price: $12.49
+
+
+R4-40X1/4
+Mounting Screw
+SCREW PHILLIPS PAN R4-40X1/4
+http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=335-1082-ND
+Qty: 10
+Price: $0.54
+Tot Price: $5.40
+
+
+4801
+Standoff
+STANDOFF M/F HEX 4-40 NYL .375"L
+http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=4801K-ND
+Qty: 10
+Price: $0.539
+Tot Price: $5.39
+
+
+NY HN 440
+Hex Nuts
+NUT HEX 4-40 NYLON
+http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=H616-ND
+Qty: 100
+Price: $0.105
+Tot Price: $10.50
+
+
+
+---------------
+---- OTHER ----
+---------------
+
+S202S01F
+SSR
+RELAY SSR 240VAC 8A TRIAC 4-SIP
+http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=425-2402-5-ND
+Qty: 1
+Price: $4.85
+Tot Price: $4.85
+
+
+566010B03400G
+Heatsink
+HEATSINK W/TAB BLACK
+http://search.digikey.com/scripts/DkSearch/dksus.dll?vendor=0&keywords=566010B03400G&stock=1
+Qty: 1
+Price: $2.06
+Tot Price: $2.06
+
+
+ATTINY84
+ATTINY84-20SSU
+http://search.digikey.com/us/en/products/ATTINY84-20SSU/ATTINY84-20SSU-ND/1886247
+Qty: 1
+Price: $2.90
+Tot Price: $2.90
+
+
+282834-2
+Signal Terminal
+TERM BLOCK 2POS SIDE ENT 2.54MM
+http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=A98333-ND
+Qty: 1
+Price: $0.75
+Tot Price: $0.75
+
+
+1437664-4
+Power Terminal
+CONN BARRIER STRIP 2POS VERT
+http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=1437664-4-ND
+Qty: 2
+Price: $0.60
+Tot Price: $1.20
+
+
+DS18B20
+Temp Sensor
+Qty: 
+Price: $
+Tot Price: 
+
+
+RMCF1206JT4K70
+uC Reset
+RES 4.7K OHM 1/4W 5% 1206 SMD
+http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=RMCF1206JT4K70CT-ND
+Qty: 1
+Price: $0.05
+Tot Price: $0.05
+
+
+ERJ-14NF1580U
+Current Limit Resistor
+RES 158 OHM 1/2W 1% 1210 SMD
+http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=P158AACT-ND
+Qty: 1
+Price: $0.51
+Tot Price: $0.51
